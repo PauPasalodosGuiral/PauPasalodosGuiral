@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 20px; border-radius: 10px; margin-bottom: 20px;">
 
 # Pau Pasalodos Guiral
 
@@ -10,11 +10,17 @@
 
 ---
 
-Estudiante de DAM con interés en el desarrollo de aplicaciones de escritorio y web. Me gusta construir proyectos desde cero cuidando tanto la funcionalidad como la organización del código.
+<div style="background-color: #f0f4ff; padding: 20px; border-radius: 8px; border-left: 5px solid #667eea; margin: 20px 0;">
+
+**Estudiante de DAM** con interés en el desarrollo de aplicaciones de escritorio y web. Me gusta construir proyectos desde cero cuidando tanto la funcionalidad como la organización del código.
+
+</div>
 
 ---
 
 ## Proyectos destacados
+
+<div style="background-color: #fff5f5; padding: 20px; border-radius: 8px; margin: 15px 0; border-left: 5px solid #f687b3;">
 
 ### EventDev
 Aplicación para la gestión de eventos desarrollada en Java.
@@ -22,13 +28,17 @@ Aplicación para la gestión de eventos desarrollada en Java.
 - **Tecnologías:** Java · Git
 - **Repositorio:** [Ver proyecto](https://github.com/PauPasalodosGuiral/EventDEVv2.git)
 
----
+</div>
+
+<div style="background-color: #f5f9ff; padding: 20px; border-radius: 8px; margin: 15px 0; border-left: 5px solid #4299e1;">
 
 ### Proyecto Web
 Sitio web desarrollado como parte de mi formación en desarrollo front-end.
 
 - **Tecnologías:** HTML · CSS · JavaScript
 - **Repositorio:** [Ver proyecto](https://github.com/PauPasalodosGuiral/HTML_Trabajo_Final.git)
+
+</div>
 
 ---
 
@@ -49,8 +59,8 @@ Sitio web desarrollado como parte de mi formación en desarrollo front-end.
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 8px; color: white; margin-top: 30px;">
 
-*Abierto a colaboraciones y prácticas en empresa. No dudes en contactarme.*
+**Abierto a colaboraciones y prácticas en empresa. No dudes en contactarme.**
 
 </div>
